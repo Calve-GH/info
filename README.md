@@ -3,8 +3,7 @@
 ### Contact details
 ```
 E-mail: podobed.yuriy@gmail.com
-Phone: +380686742848
-City: Kiev, Odessa
+Phone: +375259365131
 Github: https://github.com/Calve-GH
 ```
 ### Skills
